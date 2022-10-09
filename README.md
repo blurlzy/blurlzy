@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blurlzy
-- 👀 developer, gamer, basketball player 
+- 👀 cloud architect, developer, gamer, basketball player 
 
 <!---
 blurlzy/blurlzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
