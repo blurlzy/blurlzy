@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @blurlzy
-- 👀 cloud solution architect, full stack developer, gamer, basketball player 
+- 👀 cloud solution architect
 
-<!---
-blurlzy/blurlzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[https://zongyi.me](https://zongyi.me/) 
+![me](https://stzlblog.blob.core.windows.net/app-images/site_1.png)
